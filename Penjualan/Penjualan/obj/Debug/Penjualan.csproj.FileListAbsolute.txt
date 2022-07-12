@@ -1,0 +1,2 @@
+D:\Folder Kuliah\Kuliah Sem2\Pemograman\Responsi\RES2\Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+D:\Folder Kuliah\Kuliah Sem2\Pemograman\Responsi\RES2\Penjualan\Penjualan\obj\Debug\Penjualan.csprojResolveAssemblyReference.cache
